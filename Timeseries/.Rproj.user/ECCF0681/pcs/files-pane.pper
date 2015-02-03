@@ -1,0 +1,9 @@
+{
+    "path" : "~/Timeseries",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
